@@ -9,7 +9,7 @@ import com.crm.maranus.pom_utility.CreateNewCampaignPage;
 import com.crm.maranus.pom_utility.Home_Page;
 
 import Generic_Libraries.BaseClass;
-
+//commented
 public class CreateCampaignTest extends BaseClass
 {
 	@Test(groups = "smokeTest")
